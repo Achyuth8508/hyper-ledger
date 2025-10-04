@@ -172,12 +172,10 @@ curl -X POST http://localhost:8080/accounts/acct1/transaction \
 curl http://localhost:8080/accounts/acct1/history
 ```
 
----
+     
 
-          
-```
 
----
+
 
 ## ⚠️ Notes & Best Practices
 
