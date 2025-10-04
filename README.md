@@ -1,5 +1,6 @@
 # 📘 Hyperledger Fabric Assignment
 
+
 This repository contains the internship assignment implementation using **Hyperledger Fabric**:
 
 - **Level-1** → Setup and run the Fabric test network  
@@ -7,6 +8,10 @@ This repository contains the internship assignment implementation using **Hyperl
 - **Level-3** → Build a **Spring Boot REST API** that invokes the chaincode and containerize it with Docker  
 
 ---
+
+## Overview
+
+This repository contains the implementation for the Hyperledger Fabric Internship Assignment. The project involves creating a blockchain-based system for a financial institution to manage and track assets. The system supports creating assets, updating asset values, querying the world state to read assets, and retrieving asset transaction history. Assets represent accounts with attributes such as DEALERID, MSISDN, MPIN, BALANCE, STATUS, TRANSAMOUNT, TRANSTYPE, and REMARKS. The goal is to ensure security, transparency, and immutability of asset records while providing an efficient way to track and manage asset-related transactions and histories.
 
 ## 🚀 Prerequisites
 
