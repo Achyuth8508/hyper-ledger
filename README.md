@@ -202,5 +202,4 @@ curl http://localhost:8080/accounts/acct1/history
 5. Test endpoints with curl/Postman  
 
 ---
-
-🔗 This completes the **Hyperledger Fabric Assignment (Java implementation)**.  
+ 
